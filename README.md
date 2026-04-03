@@ -43,3 +43,11 @@ npm run dev
 go to http://localhost:5173/ in your browser
 
 and you will see the app running locally in your system. To get the DB_URL go to mongoDB atlas, sign up and create a cluster after creating a new project.
+
+and this is the link for the deployed application
+
+https://luminous-pika-80f277.netlify.app/
+
+or
+
+https://luminous-pika-80f277.netlify.app/signin/
