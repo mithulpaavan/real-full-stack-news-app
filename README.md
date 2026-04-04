@@ -51,3 +51,5 @@ https://luminous-pika-80f277.netlify.app/
 or
 
 https://luminous-pika-80f277.netlify.app/signin/
+
+ok, so if you want to access the app on mobile, turn on "allow third party cookies" option in your browser, it worked for me as i used cookies to store the tokens.
